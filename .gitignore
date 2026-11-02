@@ -1,0 +1,10 @@
+# Local previews and duplicate working copies
+/screenshots/
+/2kaim/
+# Local secrets and OS/editor files
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store
+*.log
