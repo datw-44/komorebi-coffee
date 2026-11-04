@@ -1,0 +1,2497 @@
+{
+  "pc": {
+    "a11y": [
+      [
+        "A",
+        null,
+        "KOMOREBI COFFEE トップ"
+      ],
+      [
+        "BUTTON",
+        null,
+        "メニューを開く"
+      ],
+      [
+        "NAV",
+        null,
+        "メインナビゲーション"
+      ],
+      [
+        "IMG",
+        "木の梁と窓際の席に、午後の自然光が差し込むカフェ空間のイメージ",
+        null
+      ],
+      [
+        "IMG",
+        "木の窓枠とテーブルを、柔らかな日差しが照らすカフェのイメージ",
+        null
+      ],
+      [
+        "IMG",
+        "日差しの模様が落ちる木のテーブルとブラックコーヒーのイメージ",
+        null
+      ],
+      [
+        "IMG",
+        "白いカップに注がれたラテアートのあるカフェラテのイメージ",
+        null
+      ],
+      [
+        "IMG",
+        "フルーツを添えたチーズケーキのイメージ",
+        null
+      ],
+      [
+        "A",
+        null,
+        "トップへ戻る"
+      ]
+    ],
+    "areas": [
+      [
+        "",
+        76
+      ],
+      [
+        "top",
+        898
+      ],
+      [
+        "about",
+        944.1000366210938
+      ],
+      [
+        "menu",
+        1004.2125244140624
+      ],
+      [
+        "access",
+        618
+      ],
+      [
+        "",
+        207.40000915527344
+      ]
+    ],
+    "client": 1425,
+    "images": [
+      [
+        "assets/hero-desktop.jpg",
+        1920
+      ],
+      [
+        "assets/about.jpg",
+        900
+      ],
+      [
+        "assets/coffee.jpg",
+        850
+      ],
+      [
+        "assets/latte.jpg",
+        850
+      ],
+      [
+        "assets/cake.jpg",
+        850
+      ]
+    ],
+    "rows": [
+      {
+        "cls": "skip",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "30.4px",
+        "section": "other",
+        "size": "16px",
+        "tag": "A",
+        "text": "本文へ移動",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "demo-bar",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "19px",
+        "section": "other",
+        "size": "10px",
+        "tag": "DIV",
+        "text": "架空カフェの制作ポートフォリオ",
+        "tracking": "0.5px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "19px",
+        "section": "other",
+        "size": "10px",
+        "tag": "SPAN",
+        "text": "／ 写真は店舗・商品のイメージです",
+        "tracking": "0.5px",
+        "weight": "400"
+      },
+      {
+        "cls": "brand",
+        "font": "Georgia, \"Times New Roman\", serif",
+        "line": "25.3px",
+        "section": "header",
+        "size": "23px",
+        "tag": "A",
+        "text": "KOMOREBI",
+        "tracking": "3.22px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, \"Times New Roman\", serif",
+        "line": "11px",
+        "section": "header",
+        "size": "10px",
+        "tag": "SPAN",
+        "text": "COFFEE",
+        "tracking": "4.5px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "header",
+        "size": "12px",
+        "tag": "A",
+        "text": "私たちについて",
+        "tracking": "0.84px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "header",
+        "size": "12px",
+        "tag": "A",
+        "text": "メニュー",
+        "tracking": "0.84px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "header",
+        "size": "12px",
+        "tag": "A",
+        "text": "店舗情報",
+        "tracking": "0.84px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "header",
+        "size": "12px",
+        "tag": "SPAN",
+        "text": "↗",
+        "tracking": "0.84px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, \"Times New Roman\", serif",
+        "line": "105.84px",
+        "section": "top",
+        "size": "100.8px",
+        "tag": "H1",
+        "text": "KOMOREBI",
+        "tracking": "4.536px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, \"Times New Roman\", serif",
+        "line": "52.92px",
+        "section": "top",
+        "size": "50.4px",
+        "tag": "SPAN",
+        "text": "COFFEE",
+        "tracking": "13.104px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "39.9px",
+        "section": "top",
+        "size": "21px",
+        "tag": "P",
+        "text": "静けさと、一杯の余韻。",
+        "tracking": "3.36px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "top",
+        "size": "12px",
+        "tag": "SPAN",
+        "text": "日常に、小さな余白を。",
+        "tracking": "1.44px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "top",
+        "size": "12px",
+        "tag": "A",
+        "text": "私たちについて",
+        "tracking": "1.44px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "41.8px",
+        "section": "top",
+        "size": "22px",
+        "tag": "SPAN",
+        "text": "↓",
+        "tracking": "1.44px",
+        "weight": "400"
+      },
+      {
+        "cls": "section-label",
+        "font": "Arial, sans-serif",
+        "line": "19.8px",
+        "section": "about",
+        "size": "11px",
+        "tag": "DIV",
+        "text": "ABOUT",
+        "tracking": "1.76px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, serif",
+        "line": "23.4px",
+        "section": "about",
+        "size": "13px",
+        "tag": "SPAN",
+        "text": "01",
+        "tracking": "1.76px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "75.6px",
+        "section": "about",
+        "size": "42px",
+        "tag": "H2",
+        "text": "何もしない時間も、",
+        "tracking": "2.52px",
+        "weight": "500"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "75.6px",
+        "section": "about",
+        "size": "42px",
+        "tag": "H2",
+        "text": "大切なひととき。",
+        "tracking": "2.52px",
+        "weight": "500"
+      },
+      {
+        "cls": "about-lead",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "35.7px",
+        "section": "about",
+        "size": "17px",
+        "tag": "P",
+        "text": "窓辺にゆれる光と、",
+        "tracking": "1.36px",
+        "weight": "400"
+      },
+      {
+        "cls": "about-lead",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "35.7px",
+        "section": "about",
+        "size": "17px",
+        "tag": "P",
+        "text": "カップから立ちのぼる香り。",
+        "tracking": "1.36px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "29.4px",
+        "section": "about",
+        "size": "14px",
+        "tag": "P",
+        "text": "慌ただしい日も、ここでは自分のペースで。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "29.4px",
+        "section": "about",
+        "size": "14px",
+        "tag": "P",
+        "text": "一杯を味わう、小さな余白を。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "text-link",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "about",
+        "size": "12px",
+        "tag": "A",
+        "text": "今日の一杯を見つける",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "about",
+        "size": "12px",
+        "tag": "SPAN",
+        "text": "↗",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "20.9px",
+        "section": "about",
+        "size": "11px",
+        "tag": "FIGCAPTION",
+        "text": "光がほどける、窓辺のひととき。",
+        "tracking": "0.88px",
+        "weight": "400"
+      },
+      {
+        "cls": "section-label",
+        "font": "Arial, sans-serif",
+        "line": "19.8px",
+        "section": "menu",
+        "size": "11px",
+        "tag": "DIV",
+        "text": "MENU",
+        "tracking": "1.76px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, serif",
+        "line": "23.4px",
+        "section": "menu",
+        "size": "13px",
+        "tag": "SPAN",
+        "text": "02",
+        "tracking": "1.76px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "75.6px",
+        "section": "menu",
+        "size": "42px",
+        "tag": "H2",
+        "text": "一杯と、ひと皿。",
+        "tracking": "2.52px",
+        "weight": "500"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "27.3px",
+        "section": "menu",
+        "size": "13px",
+        "tag": "P",
+        "text": "香りを楽しむコーヒーと、甘いひと休み。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "27.3px",
+        "section": "menu",
+        "size": "13px",
+        "tag": "P",
+        "text": "気分に合わせて選ぶ、小さなメニュー。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "30.4px",
+        "section": "menu",
+        "size": "16px",
+        "tag": "H3",
+        "text": "ハンドドリップ",
+        "tracking": "0.32px",
+        "weight": "500"
+      },
+      {
+        "cls": "price",
+        "font": "Georgia, serif",
+        "line": "31.2px",
+        "section": "menu",
+        "size": "24px",
+        "tag": "P",
+        "text": "¥550",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "menu-description",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "menu",
+        "size": "12px",
+        "tag": "P",
+        "text": "コーヒーの香りを、ゆっくりと。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "30.4px",
+        "section": "menu",
+        "size": "16px",
+        "tag": "H3",
+        "text": "カフェラテ",
+        "tracking": "0.32px",
+        "weight": "500"
+      },
+      {
+        "cls": "price",
+        "font": "Georgia, serif",
+        "line": "31.2px",
+        "section": "menu",
+        "size": "24px",
+        "tag": "P",
+        "text": "¥620",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "menu-description",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "menu",
+        "size": "12px",
+        "tag": "P",
+        "text": "まろやかなミルクと、深い余韻。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "30.4px",
+        "section": "menu",
+        "size": "16px",
+        "tag": "H3",
+        "text": "チーズケーキ",
+        "tracking": "0.32px",
+        "weight": "500"
+      },
+      {
+        "cls": "price",
+        "font": "Georgia, serif",
+        "line": "31.2px",
+        "section": "menu",
+        "size": "24px",
+        "tag": "P",
+        "text": "¥680",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "menu-description",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "menu",
+        "size": "12px",
+        "tag": "P",
+        "text": "一杯に寄り添う、やさしい甘さ。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "menu-note",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "20.9px",
+        "section": "menu",
+        "size": "11px",
+        "tag": "P",
+        "text": "価格は税込のデモ設定です。写真はメニューのイメージであり、実際の提供商品ではありません。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "section-label",
+        "font": "Arial, sans-serif",
+        "line": "19.8px",
+        "section": "access",
+        "size": "11px",
+        "tag": "DIV",
+        "text": "INFORMATION",
+        "tracking": "1.76px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, serif",
+        "line": "23.4px",
+        "section": "access",
+        "size": "13px",
+        "tag": "SPAN",
+        "text": "03",
+        "tracking": "1.76px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "75.6px",
+        "section": "access",
+        "size": "42px",
+        "tag": "H2",
+        "text": "ひと息つける場所を、",
+        "tracking": "2.52px",
+        "weight": "500"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "75.6px",
+        "section": "access",
+        "size": "42px",
+        "tag": "H2",
+        "text": "思い描いて。",
+        "tracking": "2.52px",
+        "weight": "500"
+      },
+      {
+        "cls": "access-copy",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "30.8px",
+        "section": "access",
+        "size": "14px",
+        "tag": "P",
+        "text": "木漏れ日のように、穏やかに。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "access-copy",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "30.8px",
+        "section": "access",
+        "size": "14px",
+        "tag": "P",
+        "text": "コーヒーのある日常を描いたカフェです。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "info-brand",
+        "font": "Georgia, serif",
+        "line": "18px",
+        "section": "access",
+        "size": "12px",
+        "tag": "P",
+        "text": "KOMOREBI COFFEE",
+        "tracking": "1.8px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "access",
+        "size": "12px",
+        "tag": "DT",
+        "text": "営業時間",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, serif",
+        "line": "36.4px",
+        "section": "access",
+        "size": "28px",
+        "tag": "TIME",
+        "text": "10:00",
+        "tracking": "0.56px",
+        "weight": "400"
+      },
+      {
+        "cls": "time-divider",
+        "font": "Georgia, serif",
+        "line": "23.4px",
+        "section": "access",
+        "size": "18px",
+        "tag": "SPAN",
+        "text": "—",
+        "tracking": "0.56px",
+        "weight": "400"
+      },
+      {
+        "cls": "sr-only",
+        "font": "Georgia, serif",
+        "line": "36.4px",
+        "section": "access",
+        "size": "28px",
+        "tag": "SPAN",
+        "text": "から",
+        "tracking": "0.56px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, serif",
+        "line": "36.4px",
+        "section": "access",
+        "size": "28px",
+        "tag": "TIME",
+        "text": "18:00",
+        "tracking": "0.56px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "access",
+        "size": "12px",
+        "tag": "DT",
+        "text": "定休日",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "26.6px",
+        "section": "access",
+        "size": "14px",
+        "tag": "DD",
+        "text": "水曜日",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "access",
+        "size": "12px",
+        "tag": "DT",
+        "text": "所在地",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "26.6px",
+        "section": "access",
+        "size": "14px",
+        "tag": "DD",
+        "text": "所在地はありません",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "location-note",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "19px",
+        "section": "access",
+        "size": "10px",
+        "tag": "SPAN",
+        "text": "架空店舗",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "access-note",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "20.9px",
+        "section": "access",
+        "size": "11px",
+        "tag": "P",
+        "text": "営業時間・定休日はデモ設定です。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "access-note",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "20.9px",
+        "section": "access",
+        "size": "11px",
+        "tag": "P",
+        "text": "実際の営業・ご予約は行っていません。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "footer-brand",
+        "font": "Georgia, serif",
+        "line": "35.2px",
+        "section": "footer",
+        "size": "32px",
+        "tag": "A",
+        "text": "KOMOREBI",
+        "tracking": "2.56px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, serif",
+        "line": "15.4px",
+        "section": "footer",
+        "size": "14px",
+        "tag": "SPAN",
+        "text": "COFFEE",
+        "tracking": "4.2px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "26.6px",
+        "section": "footer",
+        "size": "14px",
+        "tag": "P",
+        "text": "静けさと、一杯の余韻。",
+        "tracking": "1.68px",
+        "weight": "400"
+      },
+      {
+        "cls": "back-top",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "20.9px",
+        "section": "footer",
+        "size": "11px",
+        "tag": "A",
+        "text": "ページの先頭へ",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "41.8px",
+        "section": "footer",
+        "size": "22px",
+        "tag": "SPAN",
+        "text": "↑",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "19px",
+        "section": "footer",
+        "size": "10px",
+        "tag": "P",
+        "text": "© 2026 KOMOREBI COFFEE · Design Portfolio",
+        "tracking": "0.3px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "19px",
+        "section": "footer",
+        "size": "10px",
+        "tag": "P",
+        "text": "架空カフェの制作デモ / Photos: Pexels",
+        "tracking": "0.3px",
+        "weight": "400"
+      }
+    ],
+    "scroll": 1425,
+    "width": 1440
+  },
+  "mobile": {
+    "a11y": [
+      [
+        "A",
+        null,
+        "KOMOREBI COFFEE トップ"
+      ],
+      [
+        "BUTTON",
+        null,
+        "メニューを開く"
+      ],
+      [
+        "NAV",
+        null,
+        "メインナビゲーション"
+      ],
+      [
+        "IMG",
+        "木の梁と窓際の席に、午後の自然光が差し込むカフェ空間のイメージ",
+        null
+      ],
+      [
+        "IMG",
+        "木の窓枠とテーブルを、柔らかな日差しが照らすカフェのイメージ",
+        null
+      ],
+      [
+        "IMG",
+        "日差しの模様が落ちる木のテーブルとブラックコーヒーのイメージ",
+        null
+      ],
+      [
+        "IMG",
+        "白いカップに注がれたラテアートのあるカフェラテのイメージ",
+        null
+      ],
+      [
+        "IMG",
+        "フルーツを添えたチーズケーキのイメージ",
+        null
+      ],
+      [
+        "A",
+        null,
+        "トップへ戻る"
+      ]
+    ],
+    "areas": [
+      [
+        "",
+        76
+      ],
+      [
+        "top",
+        725
+      ],
+      [
+        "about",
+        957.75
+      ],
+      [
+        "menu",
+        1831.268798828125
+      ],
+      [
+        "access",
+        711.9000244140625
+      ],
+      [
+        "",
+        248.6000061035156
+      ]
+    ],
+    "client": 375,
+    "images": [
+      [
+        "assets/hero-desktop.jpg",
+        900
+      ],
+      [
+        "assets/about.jpg",
+        900
+      ],
+      [
+        "assets/coffee.jpg",
+        850
+      ],
+      [
+        "assets/latte.jpg",
+        850
+      ],
+      [
+        "assets/cake.jpg",
+        850
+      ]
+    ],
+    "rows": [
+      {
+        "cls": "skip",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "30.4px",
+        "section": "other",
+        "size": "16px",
+        "tag": "A",
+        "text": "本文へ移動",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "demo-bar",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "16px",
+        "section": "other",
+        "size": "10px",
+        "tag": "DIV",
+        "text": "架空カフェの制作ポートフォリオ",
+        "tracking": "0.5px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "14.4px",
+        "section": "other",
+        "size": "9px",
+        "tag": "SPAN",
+        "text": "／ 写真は店舗・商品のイメージです",
+        "tracking": "0.5px",
+        "weight": "400"
+      },
+      {
+        "cls": "brand",
+        "font": "Georgia, \"Times New Roman\", serif",
+        "line": "22px",
+        "section": "header",
+        "size": "20px",
+        "tag": "A",
+        "text": "KOMOREBI",
+        "tracking": "2.8px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, \"Times New Roman\", serif",
+        "line": "9.9px",
+        "section": "header",
+        "size": "9px",
+        "tag": "SPAN",
+        "text": "COFFEE",
+        "tracking": "4.05px",
+        "weight": "400"
+      },
+      {
+        "cls": "toggle-label",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "19px",
+        "section": "header",
+        "size": "10px",
+        "tag": "SPAN",
+        "text": "メニュー",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, \"Times New Roman\", serif",
+        "line": "42.588px",
+        "section": "top",
+        "size": "40.56px",
+        "tag": "H1",
+        "text": "KOMOREBI",
+        "tracking": "1.4196px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, \"Times New Roman\", serif",
+        "line": "22.5716px",
+        "section": "top",
+        "size": "21.4968px",
+        "tag": "SPAN",
+        "text": "COFFEE",
+        "tracking": "5.3742px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "30.4px",
+        "section": "top",
+        "size": "16px",
+        "tag": "P",
+        "text": "静けさと、一杯の余韻。",
+        "tracking": "1.92px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "19px",
+        "section": "top",
+        "size": "10px",
+        "tag": "SPAN",
+        "text": "日常に、小さな余白を。",
+        "tracking": "0.4px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "20.9px",
+        "section": "top",
+        "size": "11px",
+        "tag": "A",
+        "text": "私たちについて",
+        "tracking": "0.4px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "36.1px",
+        "section": "top",
+        "size": "19px",
+        "tag": "SPAN",
+        "text": "↓",
+        "tracking": "0.4px",
+        "weight": "400"
+      },
+      {
+        "cls": "section-label",
+        "font": "Arial, sans-serif",
+        "line": "18px",
+        "section": "about",
+        "size": "10px",
+        "tag": "DIV",
+        "text": "ABOUT",
+        "tracking": "1.6px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, serif",
+        "line": "23.4px",
+        "section": "about",
+        "size": "13px",
+        "tag": "SPAN",
+        "text": "01",
+        "tracking": "1.6px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "49.95px",
+        "section": "about",
+        "size": "27px",
+        "tag": "H2",
+        "text": "何もしない時間も、",
+        "tracking": "0.945px",
+        "weight": "500"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "49.95px",
+        "section": "about",
+        "size": "27px",
+        "tag": "H2",
+        "text": "大切なひととき。",
+        "tracking": "0.945px",
+        "weight": "500"
+      },
+      {
+        "cls": "about-lead",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "33.6px",
+        "section": "about",
+        "size": "16px",
+        "tag": "P",
+        "text": "窓辺にゆれる光と、",
+        "tracking": "1.28px",
+        "weight": "400"
+      },
+      {
+        "cls": "about-lead",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "33.6px",
+        "section": "about",
+        "size": "16px",
+        "tag": "P",
+        "text": "カップから立ちのぼる香り。",
+        "tracking": "1.28px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "27.3px",
+        "section": "about",
+        "size": "13px",
+        "tag": "P",
+        "text": "慌ただしい日も、ここでは自分のペースで。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "27.3px",
+        "section": "about",
+        "size": "13px",
+        "tag": "P",
+        "text": "一杯を味わう、小さな余白を。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "text-link",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "about",
+        "size": "12px",
+        "tag": "A",
+        "text": "今日の一杯を見つける",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "about",
+        "size": "12px",
+        "tag": "SPAN",
+        "text": "↗",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "19px",
+        "section": "about",
+        "size": "10px",
+        "tag": "FIGCAPTION",
+        "text": "光がほどける、窓辺のひととき。",
+        "tracking": "0.8px",
+        "weight": "400"
+      },
+      {
+        "cls": "section-label",
+        "font": "Arial, sans-serif",
+        "line": "18px",
+        "section": "menu",
+        "size": "10px",
+        "tag": "DIV",
+        "text": "MENU",
+        "tracking": "1.6px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, serif",
+        "line": "23.4px",
+        "section": "menu",
+        "size": "13px",
+        "tag": "SPAN",
+        "text": "02",
+        "tracking": "1.6px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "49.95px",
+        "section": "menu",
+        "size": "27px",
+        "tag": "H2",
+        "text": "一杯と、ひと皿。",
+        "tracking": "0.945px",
+        "weight": "500"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "25.2px",
+        "section": "menu",
+        "size": "12px",
+        "tag": "P",
+        "text": "香りを楽しむコーヒーと、甘いひと休み。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "25.2px",
+        "section": "menu",
+        "size": "12px",
+        "tag": "P",
+        "text": "気分に合わせて選ぶ、小さなメニュー。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "32.3px",
+        "section": "menu",
+        "size": "17px",
+        "tag": "H3",
+        "text": "ハンドドリップ",
+        "tracking": "0.34px",
+        "weight": "500"
+      },
+      {
+        "cls": "price",
+        "font": "Georgia, serif",
+        "line": "32.5px",
+        "section": "menu",
+        "size": "25px",
+        "tag": "P",
+        "text": "¥550",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "menu-description",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "menu",
+        "size": "12px",
+        "tag": "P",
+        "text": "コーヒーの香りを、ゆっくりと。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "32.3px",
+        "section": "menu",
+        "size": "17px",
+        "tag": "H3",
+        "text": "カフェラテ",
+        "tracking": "0.34px",
+        "weight": "500"
+      },
+      {
+        "cls": "price",
+        "font": "Georgia, serif",
+        "line": "32.5px",
+        "section": "menu",
+        "size": "25px",
+        "tag": "P",
+        "text": "¥620",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "menu-description",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "menu",
+        "size": "12px",
+        "tag": "P",
+        "text": "まろやかなミルクと、深い余韻。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "32.3px",
+        "section": "menu",
+        "size": "17px",
+        "tag": "H3",
+        "text": "チーズケーキ",
+        "tracking": "0.34px",
+        "weight": "500"
+      },
+      {
+        "cls": "price",
+        "font": "Georgia, serif",
+        "line": "32.5px",
+        "section": "menu",
+        "size": "25px",
+        "tag": "P",
+        "text": "¥680",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "menu-description",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "menu",
+        "size": "12px",
+        "tag": "P",
+        "text": "一杯に寄り添う、やさしい甘さ。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "menu-note",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "19px",
+        "section": "menu",
+        "size": "10px",
+        "tag": "P",
+        "text": "価格は税込のデモ設定です。写真はメニューのイメージであり、実際の提供商品ではありません。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "section-label",
+        "font": "Arial, sans-serif",
+        "line": "18px",
+        "section": "access",
+        "size": "10px",
+        "tag": "DIV",
+        "text": "INFORMATION",
+        "tracking": "1.6px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, serif",
+        "line": "23.4px",
+        "section": "access",
+        "size": "13px",
+        "tag": "SPAN",
+        "text": "03",
+        "tracking": "1.6px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "49.95px",
+        "section": "access",
+        "size": "27px",
+        "tag": "H2",
+        "text": "ひと息つける場所を、",
+        "tracking": "0.945px",
+        "weight": "500"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "49.95px",
+        "section": "access",
+        "size": "27px",
+        "tag": "H2",
+        "text": "思い描いて。",
+        "tracking": "0.945px",
+        "weight": "500"
+      },
+      {
+        "cls": "access-copy",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "28.6px",
+        "section": "access",
+        "size": "13px",
+        "tag": "P",
+        "text": "木漏れ日のように、穏やかに。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "access-copy",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "28.6px",
+        "section": "access",
+        "size": "13px",
+        "tag": "P",
+        "text": "コーヒーのある日常を描いたカフェです。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "info-brand",
+        "font": "Georgia, serif",
+        "line": "16.5px",
+        "section": "access",
+        "size": "11px",
+        "tag": "P",
+        "text": "KOMOREBI COFFEE",
+        "tracking": "1.65px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "access",
+        "size": "12px",
+        "tag": "DT",
+        "text": "営業時間",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, serif",
+        "line": "32.5px",
+        "section": "access",
+        "size": "25px",
+        "tag": "TIME",
+        "text": "10:00",
+        "tracking": "0.5px",
+        "weight": "400"
+      },
+      {
+        "cls": "time-divider",
+        "font": "Georgia, serif",
+        "line": "23.4px",
+        "section": "access",
+        "size": "18px",
+        "tag": "SPAN",
+        "text": "—",
+        "tracking": "0.5px",
+        "weight": "400"
+      },
+      {
+        "cls": "sr-only",
+        "font": "Georgia, serif",
+        "line": "32.5px",
+        "section": "access",
+        "size": "25px",
+        "tag": "SPAN",
+        "text": "から",
+        "tracking": "0.5px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, serif",
+        "line": "32.5px",
+        "section": "access",
+        "size": "25px",
+        "tag": "TIME",
+        "text": "18:00",
+        "tracking": "0.5px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "access",
+        "size": "12px",
+        "tag": "DT",
+        "text": "定休日",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "24.7px",
+        "section": "access",
+        "size": "13px",
+        "tag": "DD",
+        "text": "水曜日",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "access",
+        "size": "12px",
+        "tag": "DT",
+        "text": "所在地",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "24.7px",
+        "section": "access",
+        "size": "13px",
+        "tag": "DD",
+        "text": "所在地はありません",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "location-note",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "19px",
+        "section": "access",
+        "size": "10px",
+        "tag": "SPAN",
+        "text": "架空店舗",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "access-note",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "20.9px",
+        "section": "access",
+        "size": "11px",
+        "tag": "P",
+        "text": "営業時間・定休日はデモ設定です。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "access-note",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "20.9px",
+        "section": "access",
+        "size": "11px",
+        "tag": "P",
+        "text": "実際の営業・ご予約は行っていません。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "footer-brand",
+        "font": "Georgia, serif",
+        "line": "28.6px",
+        "section": "footer",
+        "size": "26px",
+        "tag": "A",
+        "text": "KOMOREBI",
+        "tracking": "2.08px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, serif",
+        "line": "13.2px",
+        "section": "footer",
+        "size": "12px",
+        "tag": "SPAN",
+        "text": "COFFEE",
+        "tracking": "3.6px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "22.8px",
+        "section": "footer",
+        "size": "12px",
+        "tag": "P",
+        "text": "静けさと、一杯の余韻。",
+        "tracking": "1.44px",
+        "weight": "400"
+      },
+      {
+        "cls": "back-top",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "19px",
+        "section": "footer",
+        "size": "10px",
+        "tag": "A",
+        "text": "ページの先頭へ",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "41.8px",
+        "section": "footer",
+        "size": "22px",
+        "tag": "SPAN",
+        "text": "↑",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "17.1px",
+        "section": "footer",
+        "size": "9px",
+        "tag": "P",
+        "text": "© 2026 KOMOREBI COFFEE · Design Portfolio",
+        "tracking": "0.27px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "17.1px",
+        "section": "footer",
+        "size": "9px",
+        "tag": "P",
+        "text": "架空カフェの制作デモ / Photos: Pexels",
+        "tracking": "0.27px",
+        "weight": "400"
+      }
+    ],
+    "scroll": 375,
+    "width": 390
+  },
+  "mobileMenu": {
+    "a11y": [
+      [
+        "A",
+        null,
+        "KOMOREBI COFFEE トップ"
+      ],
+      [
+        "BUTTON",
+        null,
+        "メニューを閉じる"
+      ],
+      [
+        "NAV",
+        null,
+        "メインナビゲーション"
+      ],
+      [
+        "IMG",
+        "木の梁と窓際の席に、午後の自然光が差し込むカフェ空間のイメージ",
+        null
+      ],
+      [
+        "IMG",
+        "木の窓枠とテーブルを、柔らかな日差しが照らすカフェのイメージ",
+        null
+      ],
+      [
+        "IMG",
+        "日差しの模様が落ちる木のテーブルとブラックコーヒーのイメージ",
+        null
+      ],
+      [
+        "IMG",
+        "白いカップに注がれたラテアートのあるカフェラテのイメージ",
+        null
+      ],
+      [
+        "IMG",
+        "フルーツを添えたチーズケーキのイメージ",
+        null
+      ],
+      [
+        "A",
+        null,
+        "トップへ戻る"
+      ]
+    ],
+    "areas": [
+      [
+        "",
+        246.8000030517578
+      ],
+      [
+        "top",
+        725
+      ],
+      [
+        "about",
+        957.75
+      ],
+      [
+        "menu",
+        1831.268798828125
+      ],
+      [
+        "access",
+        711.9000244140625
+      ],
+      [
+        "",
+        248.6000061035156
+      ]
+    ],
+    "client": 375,
+    "images": [
+      [
+        "assets/hero-desktop.jpg",
+        900
+      ],
+      [
+        "assets/about.jpg",
+        900
+      ],
+      [
+        "assets/coffee.jpg",
+        850
+      ],
+      [
+        "assets/latte.jpg",
+        850
+      ],
+      [
+        "assets/cake.jpg",
+        850
+      ]
+    ],
+    "rows": [
+      {
+        "cls": "skip",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "30.4px",
+        "section": "other",
+        "size": "16px",
+        "tag": "A",
+        "text": "本文へ移動",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "demo-bar",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "16px",
+        "section": "other",
+        "size": "10px",
+        "tag": "DIV",
+        "text": "架空カフェの制作ポートフォリオ",
+        "tracking": "0.5px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "14.4px",
+        "section": "other",
+        "size": "9px",
+        "tag": "SPAN",
+        "text": "／ 写真は店舗・商品のイメージです",
+        "tracking": "0.5px",
+        "weight": "400"
+      },
+      {
+        "cls": "brand",
+        "font": "Georgia, \"Times New Roman\", serif",
+        "line": "22px",
+        "section": "header",
+        "size": "20px",
+        "tag": "A",
+        "text": "KOMOREBI",
+        "tracking": "2.8px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, \"Times New Roman\", serif",
+        "line": "9.9px",
+        "section": "header",
+        "size": "9px",
+        "tag": "SPAN",
+        "text": "COFFEE",
+        "tracking": "4.05px",
+        "weight": "400"
+      },
+      {
+        "cls": "toggle-label",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "19px",
+        "section": "header",
+        "size": "10px",
+        "tag": "SPAN",
+        "text": "閉じる",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "24.7px",
+        "section": "header",
+        "size": "13px",
+        "tag": "A",
+        "text": "私たちについて",
+        "tracking": "0.84px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "24.7px",
+        "section": "header",
+        "size": "13px",
+        "tag": "A",
+        "text": "メニュー",
+        "tracking": "0.84px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "24.7px",
+        "section": "header",
+        "size": "13px",
+        "tag": "A",
+        "text": "店舗情報",
+        "tracking": "0.84px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "24.7px",
+        "section": "header",
+        "size": "13px",
+        "tag": "SPAN",
+        "text": "↗",
+        "tracking": "0.84px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, \"Times New Roman\", serif",
+        "line": "42.588px",
+        "section": "top",
+        "size": "40.56px",
+        "tag": "H1",
+        "text": "KOMOREBI",
+        "tracking": "1.4196px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, \"Times New Roman\", serif",
+        "line": "22.5716px",
+        "section": "top",
+        "size": "21.4968px",
+        "tag": "SPAN",
+        "text": "COFFEE",
+        "tracking": "5.3742px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "30.4px",
+        "section": "top",
+        "size": "16px",
+        "tag": "P",
+        "text": "静けさと、一杯の余韻。",
+        "tracking": "1.92px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "19px",
+        "section": "top",
+        "size": "10px",
+        "tag": "SPAN",
+        "text": "日常に、小さな余白を。",
+        "tracking": "0.4px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "20.9px",
+        "section": "top",
+        "size": "11px",
+        "tag": "A",
+        "text": "私たちについて",
+        "tracking": "0.4px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "36.1px",
+        "section": "top",
+        "size": "19px",
+        "tag": "SPAN",
+        "text": "↓",
+        "tracking": "0.4px",
+        "weight": "400"
+      },
+      {
+        "cls": "section-label",
+        "font": "Arial, sans-serif",
+        "line": "18px",
+        "section": "about",
+        "size": "10px",
+        "tag": "DIV",
+        "text": "ABOUT",
+        "tracking": "1.6px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, serif",
+        "line": "23.4px",
+        "section": "about",
+        "size": "13px",
+        "tag": "SPAN",
+        "text": "01",
+        "tracking": "1.6px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "49.95px",
+        "section": "about",
+        "size": "27px",
+        "tag": "H2",
+        "text": "何もしない時間も、",
+        "tracking": "0.945px",
+        "weight": "500"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "49.95px",
+        "section": "about",
+        "size": "27px",
+        "tag": "H2",
+        "text": "大切なひととき。",
+        "tracking": "0.945px",
+        "weight": "500"
+      },
+      {
+        "cls": "about-lead",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "33.6px",
+        "section": "about",
+        "size": "16px",
+        "tag": "P",
+        "text": "窓辺にゆれる光と、",
+        "tracking": "1.28px",
+        "weight": "400"
+      },
+      {
+        "cls": "about-lead",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "33.6px",
+        "section": "about",
+        "size": "16px",
+        "tag": "P",
+        "text": "カップから立ちのぼる香り。",
+        "tracking": "1.28px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "27.3px",
+        "section": "about",
+        "size": "13px",
+        "tag": "P",
+        "text": "慌ただしい日も、ここでは自分のペースで。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "27.3px",
+        "section": "about",
+        "size": "13px",
+        "tag": "P",
+        "text": "一杯を味わう、小さな余白を。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "text-link",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "about",
+        "size": "12px",
+        "tag": "A",
+        "text": "今日の一杯を見つける",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "about",
+        "size": "12px",
+        "tag": "SPAN",
+        "text": "↗",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "19px",
+        "section": "about",
+        "size": "10px",
+        "tag": "FIGCAPTION",
+        "text": "光がほどける、窓辺のひととき。",
+        "tracking": "0.8px",
+        "weight": "400"
+      },
+      {
+        "cls": "section-label",
+        "font": "Arial, sans-serif",
+        "line": "18px",
+        "section": "menu",
+        "size": "10px",
+        "tag": "DIV",
+        "text": "MENU",
+        "tracking": "1.6px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, serif",
+        "line": "23.4px",
+        "section": "menu",
+        "size": "13px",
+        "tag": "SPAN",
+        "text": "02",
+        "tracking": "1.6px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "49.95px",
+        "section": "menu",
+        "size": "27px",
+        "tag": "H2",
+        "text": "一杯と、ひと皿。",
+        "tracking": "0.945px",
+        "weight": "500"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "25.2px",
+        "section": "menu",
+        "size": "12px",
+        "tag": "P",
+        "text": "香りを楽しむコーヒーと、甘いひと休み。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "25.2px",
+        "section": "menu",
+        "size": "12px",
+        "tag": "P",
+        "text": "気分に合わせて選ぶ、小さなメニュー。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "32.3px",
+        "section": "menu",
+        "size": "17px",
+        "tag": "H3",
+        "text": "ハンドドリップ",
+        "tracking": "0.34px",
+        "weight": "500"
+      },
+      {
+        "cls": "price",
+        "font": "Georgia, serif",
+        "line": "32.5px",
+        "section": "menu",
+        "size": "25px",
+        "tag": "P",
+        "text": "¥550",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "menu-description",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "menu",
+        "size": "12px",
+        "tag": "P",
+        "text": "コーヒーの香りを、ゆっくりと。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "32.3px",
+        "section": "menu",
+        "size": "17px",
+        "tag": "H3",
+        "text": "カフェラテ",
+        "tracking": "0.34px",
+        "weight": "500"
+      },
+      {
+        "cls": "price",
+        "font": "Georgia, serif",
+        "line": "32.5px",
+        "section": "menu",
+        "size": "25px",
+        "tag": "P",
+        "text": "¥620",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "menu-description",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "menu",
+        "size": "12px",
+        "tag": "P",
+        "text": "まろやかなミルクと、深い余韻。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "32.3px",
+        "section": "menu",
+        "size": "17px",
+        "tag": "H3",
+        "text": "チーズケーキ",
+        "tracking": "0.34px",
+        "weight": "500"
+      },
+      {
+        "cls": "price",
+        "font": "Georgia, serif",
+        "line": "32.5px",
+        "section": "menu",
+        "size": "25px",
+        "tag": "P",
+        "text": "¥680",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "menu-description",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "menu",
+        "size": "12px",
+        "tag": "P",
+        "text": "一杯に寄り添う、やさしい甘さ。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "menu-note",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "19px",
+        "section": "menu",
+        "size": "10px",
+        "tag": "P",
+        "text": "価格は税込のデモ設定です。写真はメニューのイメージであり、実際の提供商品ではありません。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "section-label",
+        "font": "Arial, sans-serif",
+        "line": "18px",
+        "section": "access",
+        "size": "10px",
+        "tag": "DIV",
+        "text": "INFORMATION",
+        "tracking": "1.6px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, serif",
+        "line": "23.4px",
+        "section": "access",
+        "size": "13px",
+        "tag": "SPAN",
+        "text": "03",
+        "tracking": "1.6px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "49.95px",
+        "section": "access",
+        "size": "27px",
+        "tag": "H2",
+        "text": "ひと息つける場所を、",
+        "tracking": "0.945px",
+        "weight": "500"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "49.95px",
+        "section": "access",
+        "size": "27px",
+        "tag": "H2",
+        "text": "思い描いて。",
+        "tracking": "0.945px",
+        "weight": "500"
+      },
+      {
+        "cls": "access-copy",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "28.6px",
+        "section": "access",
+        "size": "13px",
+        "tag": "P",
+        "text": "木漏れ日のように、穏やかに。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "access-copy",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "28.6px",
+        "section": "access",
+        "size": "13px",
+        "tag": "P",
+        "text": "コーヒーのある日常を描いたカフェです。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "info-brand",
+        "font": "Georgia, serif",
+        "line": "16.5px",
+        "section": "access",
+        "size": "11px",
+        "tag": "P",
+        "text": "KOMOREBI COFFEE",
+        "tracking": "1.65px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "access",
+        "size": "12px",
+        "tag": "DT",
+        "text": "営業時間",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, serif",
+        "line": "32.5px",
+        "section": "access",
+        "size": "25px",
+        "tag": "TIME",
+        "text": "10:00",
+        "tracking": "0.5px",
+        "weight": "400"
+      },
+      {
+        "cls": "time-divider",
+        "font": "Georgia, serif",
+        "line": "23.4px",
+        "section": "access",
+        "size": "18px",
+        "tag": "SPAN",
+        "text": "—",
+        "tracking": "0.5px",
+        "weight": "400"
+      },
+      {
+        "cls": "sr-only",
+        "font": "Georgia, serif",
+        "line": "32.5px",
+        "section": "access",
+        "size": "25px",
+        "tag": "SPAN",
+        "text": "から",
+        "tracking": "0.5px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, serif",
+        "line": "32.5px",
+        "section": "access",
+        "size": "25px",
+        "tag": "TIME",
+        "text": "18:00",
+        "tracking": "0.5px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "access",
+        "size": "12px",
+        "tag": "DT",
+        "text": "定休日",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "24.7px",
+        "section": "access",
+        "size": "13px",
+        "tag": "DD",
+        "text": "水曜日",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "22.8px",
+        "section": "access",
+        "size": "12px",
+        "tag": "DT",
+        "text": "所在地",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "24.7px",
+        "section": "access",
+        "size": "13px",
+        "tag": "DD",
+        "text": "所在地はありません",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "location-note",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "19px",
+        "section": "access",
+        "size": "10px",
+        "tag": "SPAN",
+        "text": "架空店舗",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "access-note",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "20.9px",
+        "section": "access",
+        "size": "11px",
+        "tag": "P",
+        "text": "営業時間・定休日はデモ設定です。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "access-note",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "20.9px",
+        "section": "access",
+        "size": "11px",
+        "tag": "P",
+        "text": "実際の営業・ご予約は行っていません。",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "footer-brand",
+        "font": "Georgia, serif",
+        "line": "28.6px",
+        "section": "footer",
+        "size": "26px",
+        "tag": "A",
+        "text": "KOMOREBI",
+        "tracking": "2.08px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "Georgia, serif",
+        "line": "13.2px",
+        "section": "footer",
+        "size": "12px",
+        "tag": "SPAN",
+        "text": "COFFEE",
+        "tracking": "3.6px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", Georgia, serif",
+        "line": "22.8px",
+        "section": "footer",
+        "size": "12px",
+        "tag": "P",
+        "text": "静けさと、一杯の余韻。",
+        "tracking": "1.44px",
+        "weight": "400"
+      },
+      {
+        "cls": "back-top",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "19px",
+        "section": "footer",
+        "size": "10px",
+        "tag": "A",
+        "text": "ページの先頭へ",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "41.8px",
+        "section": "footer",
+        "size": "22px",
+        "tag": "SPAN",
+        "text": "↑",
+        "tracking": "normal",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "17.1px",
+        "section": "footer",
+        "size": "9px",
+        "tag": "P",
+        "text": "© 2026 KOMOREBI COFFEE · Design Portfolio",
+        "tracking": "0.27px",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "font": "\"Yu Gothic\", \"Hiragino Kaku Gothic ProN\", Meiryo, sans-serif",
+        "line": "17.1px",
+        "section": "footer",
+        "size": "9px",
+        "tag": "P",
+        "text": "架空カフェの制作デモ / Photos: Pexels",
+        "tracking": "0.27px",
+        "weight": "400"
+      }
+    ],
+    "scroll": 375,
+    "width": 390
+  }
+}
